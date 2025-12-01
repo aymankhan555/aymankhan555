@@ -16,4 +16,4 @@ If I see a pattern in the data, chances are I'll build a model to predict it or 
 * ⚡ I prefer dark mode IDEs over light mode
 * Hobbies: Gaming, coding challenges, solving puzzles
 
-Feel free to explore my projects or reach out—I love connecting with fellow tech enthusiasts! 🚀
+Feel free to explore my projects or reach out, I love connecting with fellow tech enthusiasts! 🚀
