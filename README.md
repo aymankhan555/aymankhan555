@@ -21,8 +21,9 @@ If I see a pattern in the data, chances are I'll build a model to predict it or 
 - Analyzed customer purchasing patterns and spending behavior  
 - Identified key trends affecting revenue  
 
-Project: https://github.com/aymankhan555/customer_shopping_behavior_analysis  
-README: https://github.com/aymankhan555/customer_shopping_behavior_analysis/blob/main/README.md  
+[View repository](https://github.com/aymankhan555/customer_shopping_behavior_analysis)  
+[Read project details](https://github.com/aymankhan555/customer_shopping_behavior_analysis/blob/main/README.md)
+
 
 ---
 
@@ -34,8 +35,9 @@ README: https://github.com/aymankhan555/customer_shopping_behavior_analysis/blob
 - Analyzed sales performance and seasonal trends  
 - Built dashboards to visualize key KPIs  
 
-Project: https://github.com/aymankhan555/Walmart_Sales_Analysis  
-README: https://github.com/aymankhan555/Walmart_Sales_Analysis/blob/main/README.md  
+[View repository](https://github.com/aymankhan555/Walmart_Sales_Analysis)  
+[Read project details](https://github.com/aymankhan555/Walmart_Sales_Analysis/blob/main/README.md)
+ 
 
 ---
 
@@ -47,8 +49,9 @@ README: https://github.com/aymankhan555/Walmart_Sales_Analysis/blob/main/README.
 - Analyzed user drop-offs across different funnel stages  
 - Provided insights to improve conversion rates  
 
-Project: https://github.com/aymankhan555/Ecommerce_Funnel_Analysis  
-README: https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/README.md  
+[View repository](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis)  
+[Read project details](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/README.md)
+ 
 
 ---
 
@@ -64,9 +67,11 @@ README: https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/READ
 - Built a machine learning model to predict customer churn  
 - Deployed the model using Streamlit  
 
-Project: https://github.com/aymankhan555/credit-card-churn-prediction  
-README: https://github.com/aymankhan555/credit-card-churn-prediction/blob/main/README.md  
-Live App: https://credit-card-churn-prediction.streamlit.app/ 
+[View repository](https://github.com/aymankhan555/credit-card-churn-prediction)  
+[Read project details](https://github.com/aymankhan555/credit-card-churn-prediction/blob/main/README.md)  
+[Live application](https://credit-card-churn-prediction.streamlit.app/)
+
+
 **Fun Facts:**
 
 * 🎮 I like gaming
