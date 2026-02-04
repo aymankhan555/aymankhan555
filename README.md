@@ -6,7 +6,8 @@ A **data enthusiast** who **likes to find insights and build** intelligent **ML 
 
 If I see a pattern in the data, chances are I'll build a model to predict it or a dashboard to visualize it.
 
-**My Tech Stack:** I focus on **Python**, **SQL**, and **Machine Learning (ML)**. My skill set also includes **C/C++**, along with **Power BI** and **Streamlit** for visualization and web applications.
+I focus on **Python, SQL, Machine Learning (ML), as well as **Streamlit** and **Power BI** for building dashboards and interactive web apps.
+
 
 ---
 # Here are some of my projects:
