@@ -76,10 +76,12 @@ If I see a pattern in the data, chances are I'll build a model to predict it or 
 
 
 
-**Fun Facts:**
 
-* 🎮 I like gaming
-* ⚡ I prefer dark mode IDEs over light mode
-* Hobbies: Gaming, coding challenges, solving puzzles
+** Additional Information: **
 
-Feel free to explore my projects or reach out, I love connecting with fellow tech enthusiasts! 🚀
+- Interests: Gaming, coding challenges, problem-solving  
+- Preferred environment: Dark mode IDEs
+
+
+Feel free to explore the repositories and connect for collaboration or discussion.
+
