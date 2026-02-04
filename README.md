@@ -72,6 +72,10 @@ If I see a pattern in the data, chances are I'll build a model to predict it or 
 [Live application](https://credit-card-churn-prediction.streamlit.app/)
 
 
+# [Explore more projects on my GitHub](https://github.com/aymankhan555?tab=repositories)
+
+
+
 **Fun Facts:**
 
 * 🎮 I like gaming
