@@ -1,88 +1,99 @@
-# Hey there! 👋
+# 👋 Hi, I'm Ayman
 
-I'm **Ayman**.
+**Data Enthusiast | ML Builder | Insight Storyteller**
 
-A **data enthusiast** who **likes to find insights and build** intelligent **ML models** and turns data into stories.
+I enjoy transforming raw data into meaningful insights, building intelligent **machine learning models**, and creating **interactive dashboards** that tell clear stories.
 
-If I see a pattern in the data, chances are I'll build a model to predict it or a dashboard to visualize it.
-
-I focus on **Python**, **SQL**, **Machine Learning (ML)**, as well as **Streamlit** and **Power BI** for building dashboards and interactive web apps.
-
+If I find a pattern in the data, chances are I’ll:
+- Build a **predictive model**
+- Or design a **dashboard** to visualize it
 
 ---
-# Here are some of my projects:
-## Data Analytics Projects
 
-### Customer Shopping Behavior Analysis
-**Tools:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+##  Tech Stack
+
+- **Languages:** Python, C/C++,MySQL, PostgreSQL  
+- **Data & ML:** Pandas, NumPy, Scikit-learn ,tensorflow 
+- **Visualization & BI:** Power BI, Streamlit  
+- **Other:** Git, GitHub  
+
+---
+
+## Projects
+
+<details>
+<summary><strong>📈 Data Analytics Projects</strong></summary>
+
+<br>
+
+### Customer Shopping Behavior Analysis  
+**Tools:** Python, SQL, Power BI  
 
 - Analyzed customer purchasing patterns and spending behavior  
 - Identified key trends affecting revenue  
 
-[View repository](https://github.com/aymankhan555/customer_shopping_behavior_analysis)  
-[Read project details](https://github.com/aymankhan555/customer_shopping_behavior_analysis/blob/main/README.md)
-
+🔗 [Repository](https://github.com/aymankhan555/customer_shopping_behavior_analysis)  
+📄 [Project Details](https://github.com/aymankhan555/customer_shopping_behavior_analysis/blob/main/README.md)
 
 ---
 
-### Walmart Sales Analysis
-**Tools:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+### Walmart Sales Analysis  
+**Tools:** Python, Power BI  
 
 - Analyzed sales performance and seasonal trends  
 - Built dashboards to visualize key KPIs  
 
-[View repository](https://github.com/aymankhan555/Walmart_Sales_Analysis)  
-[Read project details](https://github.com/aymankhan555/Walmart_Sales_Analysis/blob/main/README.md)
- 
+🔗 [Repository](https://github.com/aymankhan555/Walmart_Sales_Analysis)  
+📄 [Project Details](https://github.com/aymankhan555/Walmart_Sales_Analysis/blob/main/README.md)
 
 ---
 
-### E-commerce Funnel Analysis
-**Tools:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+### E-commerce Funnel Analysis  
+**Tools:** Python, Power BI  
 
-- Analyzed user drop-offs across different funnel stages  
+- Analyzed user drop-offs across funnel stages  
 - Provided insights to improve conversion rates  
 
-[View repository](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis)  
-[Read project details](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/README.md)
- 
+🔗 [Repository](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis)  
+📄 [Project Details](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/README.md)
+
+</details>
 
 ---
 
-## Machine Learning Projects
+<details>
+<summary><strong>🤖 Machine Learning Projects</strong></summary>
 
-### Credit Card Customer Churn Prediction
-**Tools:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/> 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<br>
+
+### Credit Card Customer Churn Prediction  
+**Tools:** Python, Machine Learning, Streamlit, Power BI  
 
 - Built a machine learning model to predict customer churn  
 - Deployed the model using Streamlit  
 
-[View repository](https://github.com/aymankhan555/credit-card-churn-prediction)  
-[Read project details](https://github.com/aymankhan555/credit-card-churn-prediction/blob/main/README.md)  
-[Live application](https://credit-card-churn-prediction.streamlit.app/)
+🔗 [Repository](https://github.com/aymankhan555/credit-card-churn-prediction)  
+📄 [Project Details](https://github.com/aymankhan555/credit-card-churn-prediction/blob/main/README.md)  
+🌐 [Live App](https://credit-card-churn-prediction.streamlit.app/)
 
+</details>
 
-##### [Explore more projects on my GitHub](https://github.com/aymankhan555?tab=repositories)
+---
 
+## More
 
+🔍 [Explore all my projects](https://github.com/aymankhan555?tab=repositories)
 
+---
 
-** Additional Information: **
+## Interests
 
-- Interests: Gaming, coding challenges, problem-solving  
-- Preferred environment: Dark mode IDEs
+- Gaming 🎮  
+- Coding challenges  
+- Problem-solving  
 
+ **Preferred Environment:** Dark mode IDEs  
 
-Feel free to explore the repositories and connect for collaboration or discussion.
+---
 
+ Feel free to explore my repositories or connect for collaboration and discussions!
