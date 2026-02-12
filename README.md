@@ -10,12 +10,23 @@ If I find a pattern in the data, chances are I’ll:
 
 ---
 
-##  Tech Stack
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 
-- **Languages:** Python, C/C++,MySQL, PostgreSQL  
-- **Data & ML:** Pandas, NumPy, Scikit-learn ,tensorflow 
-- **Visualization & BI:** Power BI, Streamlit  
-- **Other:** Git, GitHub  
+### Data & Machine Learning
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+
+### Visualization & BI
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+
 
 ---
 
@@ -27,7 +38,9 @@ If I find a pattern in the data, chances are I’ll:
 <br>
 
 ### Customer Shopping Behavior Analysis  
-**Tools:** Python, SQL, Power BI  
+**Tools:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 
 - Analyzed customer purchasing patterns and spending behavior  
 - Identified key trends affecting revenue  
@@ -38,7 +51,8 @@ If I find a pattern in the data, chances are I’ll:
 ---
 
 ### Walmart Sales Analysis  
-**Tools:** Python, Power BI  
+**Tools:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>  
 
 - Analyzed sales performance and seasonal trends  
 - Built dashboards to visualize key KPIs  
@@ -49,7 +63,8 @@ If I find a pattern in the data, chances are I’ll:
 ---
 
 ### E-commerce Funnel Analysis  
-**Tools:** Python, Power BI  
+**Tools:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>  
 
 - Analyzed user drop-offs across funnel stages  
 - Provided insights to improve conversion rates  
@@ -67,7 +82,10 @@ If I find a pattern in the data, chances are I’ll:
 <br>
 
 ### Credit Card Customer Churn Prediction  
-**Tools:** Python, Machine Learning, Streamlit, Power BI  
+**Tools:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> 
 
 - Built a machine learning model to predict customer churn  
 - Deployed the model using Streamlit  
