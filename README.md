@@ -1,10 +1,8 @@
+# 👋 Hi, I'm Ayman
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Enthusiast;ML+Builder;Insight+Storyteller" />
 </p>
-
-# 👋 Hi, I'm Ayman
-
-**Data Enthusiast | ML Builder | Insight Storyteller**
 
 I enjoy transforming raw data into meaningful insights, building intelligent **machine learning models**, and creating **interactive dashboards** that tell clear stories.
 
