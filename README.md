@@ -6,9 +6,10 @@
 
 I enjoy transforming raw data into meaningful insights, building intelligent **machine learning models**, and creating **interactive dashboards** that tell clear stories.
 
-If I find a pattern in the data, chances are I’ll:
-- Build a **predictive model**
-- Or design a **dashboard** to visualize it
+If data shows a pattern, I transform it into:
+
+- A predictive model, or
+- A clear, story-driven dashboard.
 
 ---
 
