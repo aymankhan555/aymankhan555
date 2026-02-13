@@ -19,7 +19,8 @@ If data shows a pattern, I transform it into:
 
 
 ### Data & Machine Learning
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+
 
 ### Visualization & BI
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
@@ -27,10 +28,13 @@ If data shows a pattern, I transform it into:
 
 ---
 
-## Projects
+## Projects:
 
 <details>
-<summary><strong>📈 Data Analytics Projects</strong></summary>
+<summary><strong>Data Analytics Projects</strong></summary>
+
+
+
 
 <br>
 
@@ -39,8 +43,9 @@ If data shows a pattern, I transform it into:
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 
-- Analyzed customer purchasing patterns and spending behavior  
-- Identified key trends affecting revenue  
+- Designed an end-to-end analytics workflow using Python, SQL, and Power BI to uncover key revenue drivers and customer behavior insights  
+- Identified high-value customer segments, subscription gaps, shipping and payment impacts, and product performance to inform strategic business decisions
+
 
 🔗 [Repository](https://github.com/aymankhan555/customer_shopping_behavior_analysis)  
 📄 [Project Details](https://github.com/aymankhan555/customer_shopping_behavior_analysis/blob/main/README.md)
@@ -74,7 +79,8 @@ If data shows a pattern, I transform it into:
 ---
 
 <details>
-<summary><strong>🤖 Machine Learning Projects</strong></summary>
+<summary><strong>Machine Learning Projects</strong></summary>
+
 
 <br>
 
