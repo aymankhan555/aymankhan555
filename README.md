@@ -1,120 +1,94 @@
-# 👋 Hi, I'm Ayman
+<h1 align="center">Hey, I'm Ayman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Enthusiast;ML+Builder;Insight+Storyteller" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;SQL+%7C+Python+%7C+Machine+Learning;Models+trained,+tuned,+and+shipped" />
 </p>
 
-I enjoy transforming raw data into meaningful insights, building intelligent **machine learning models**, and creating **interactive dashboards** that tell clear stories.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/aymankhan555">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
-If data shows a pattern, I transform it into:
+<p align="center">
+  I enjoy turning messy data into something that actually means something —<br/>
+  whether that's a trained model, a SQL insight, or a dashboard someone can act on.<br/>
+  📍 Bangladesh &nbsp;·&nbsp; 💼 Open to Data Analyst and Data Science roles
+</p>
 
-- A predictive model, or
-- A clear, story-driven dashboard.
+<br/>
 
----
+## Projects
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<br/>
 
+### 🏦 Loan Default Prediction &nbsp;·&nbsp; [Repo](https://github.com/aymankhan555/loan_approval_prediction) &nbsp;·&nbsp; [Live App](https://aymankhan555-loan-approval-app.streamlit.app/)
 
-### Data & Machine Learning
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+Predicting whether a borrower will default on a loan using 91,226 real records. Compared three models, tuned XGBoost with 150 Optuna trials, and deployed the result as a Streamlit app that gives instant approval decisions. Catches 83 out of 100 real defaulters with a 0.9572 ROC-AUC on test data.
 
+`Python` `XGBoost` `Optuna` `Scikit-learn` `Streamlit`
 
-### Visualization & BI
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+<br/>
 
+### 💳 Credit Card Churn Prediction &nbsp;·&nbsp; [Repo](https://github.com/aymankhan555/credit-card-churn-prediction) &nbsp;·&nbsp; [Live App](https://credit-card-churn-prediction.streamlit.app/)
 
----
+Flagging bank customers likely to cancel their card before they do. Trained and compared LR, Random Forest, and XGBoost, then used KMeans to segment customers by value tier. Delivered a 3-page Power BI dashboard and a live Streamlit app. Low card usage turned out to be the strongest churn signal, ahead of credit limit or demographics.
 
-## Projects:
+`Python` `XGBoost` `KMeans` `Scikit-learn` `Streamlit` `Power BI`
 
-<details>
-<summary><strong>Data Analytics Projects</strong></summary>
+<br/>
 
+### 🛒 Walmart Sales Analysis &nbsp;·&nbsp; [Repo](https://github.com/aymankhan555/Walmart_Sales_Analysis)
 
+Analyzed 421,570 rows of weekly store sales to separate what actually drives revenue from what just looks like it does. Promotions barely moved the needle (+$310 average). Economic indicators had near-zero correlation with sales. The real drivers were specific holidays and store-level behavior.
 
+`Python` `Pandas` `Seaborn` `Power BI`
 
-<br>
+<br/>
 
-### Customer Shopping Behavior Analysis  
-**Tools:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+### 🧾 Customer Shopping Behavior Analysis &nbsp;·&nbsp; [Repo](https://github.com/aymankhan555/customer_shopping_behavior_analysis)
 
-- Designed an end-to-end analytics workflow using Python, SQL, and Power BI to uncover key revenue drivers and customer behavior insights  
-- Identified high-value customer segments, subscription gaps, shipping and payment impacts, and product performance to inform strategic business decisions
+Full Python → SQL → Power BI pipeline on 3,900 customer transaction records. Ten SQL queries covering segmentation, payment behavior, discounts, and product performance. Key finding: 3,476 loyal customers carry the entire business, yet 2,518 of them are not subscribed. Discounts actually reduced average spend rather than increasing it.
 
+`Python` `MySQL` `PostgreSQL` `Power BI`
 
-🔗 [Repository](https://github.com/aymankhan555/customer_shopping_behavior_analysis)  
-📄 [Project Details](https://github.com/aymankhan555/customer_shopping_behavior_analysis/blob/main/README.md)
-
----
-
-### Walmart Sales Analysis  
-**Tools:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>  
-
-- Analyzed sales performance and seasonal trends  
-- Built dashboards to visualize key KPIs  
-
-🔗 [Repository](https://github.com/aymankhan555/Walmart_Sales_Analysis)  
-📄 [Project Details](https://github.com/aymankhan555/Walmart_Sales_Analysis/blob/main/README.md)
-
----
-
-### E-commerce Funnel Analysis  
-**Tools:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>  
-
-- Analyzed user drop-offs across funnel stages  
-- Provided insights to improve conversion rates  
-
-🔗 [Repository](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis)  
-📄 [Project Details](https://github.com/aymankhan555/Ecommerce_Funnel_Analysis/blob/main/README.md)
-
-</details>
-
----
-
-<details>
-<summary><strong>Machine Learning Projects</strong></summary>
-
-
-<br>
-
-### Credit Card Customer Churn Prediction  
-**Tools:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> 
-
-- Built a machine learning model to predict customer churn  
-- Deployed the model using Streamlit  
-
-🔗 [Repository](https://github.com/aymankhan555/credit-card-churn-prediction)  
-📄 [Project Details](https://github.com/aymankhan555/credit-card-churn-prediction/blob/main/README.md)  
-🌐 [Live App](https://credit-card-churn-prediction.streamlit.app/)
-
-</details>
-
----
-
-## More
+<br/>
 
 🔍 [Explore all my projects](https://github.com/aymankhan555?tab=repositories)
 
----
+<br/>
 
-## Interests
+## Tech Stack
 
-- Gaming 🎮  
-- Coding challenges  
-- Problem-solving  
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
- **Preferred Environment:** Dark mode IDEs  
+**Data and ML** &nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-3B4EFF?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
----
+**BI and Deployment** &nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
- Feel free to explore my repositories or connect for collaboration and discussions!
+<br/>
+
+
+
+<p align="center">
+  Have data that needs a story? Let's build it.<br/><br/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.kaggle.com/aymankhan555">Kaggle</a>
+</p>
