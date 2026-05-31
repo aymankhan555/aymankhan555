@@ -5,12 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ayman-khan-6a4485345/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/aymankhan555">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://aymankhan555.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-8b6f47?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
