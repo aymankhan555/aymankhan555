@@ -92,5 +92,5 @@ Full Python → SQL → Power BI pipeline on 3,900 customer transaction records.
 
 <p align="center">
   Have data that needs a story? Let's build it.<br/><br/>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.kaggle.com/aymankhan555">Kaggle</a>
+  <a href="https://www.linkedin.com/in/ayman-khan-6a4485345/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.kaggle.com/aymankhan555">Kaggle</a>
 </p>
