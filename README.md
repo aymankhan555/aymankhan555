@@ -26,45 +26,16 @@
 
 <br/>
 
-## Projects
+## A Handful of Projects
 
-<br/>
+| Project | What it does | Tech |
+|---|---|---|
+| [ToxSense](https://huggingface.co/spaces/ayman005/toxsense) | Multi-label toxicity classifier using DistilBERT — macro AUC 0.9838 | Python · DistilBERT · Streamlit · Docker |
+| [Loan Default Predictor](https://aymankhan555-loan-approval-app.streamlit.app/) | XGBoost + Optuna, catches 83/100 real defaulters | Python · XGBoost · Optuna · Streamlit |
+| [Credit Card Churn](https://credit-card-churn-prediction.streamlit.app/) | Flags churners before they leave, KMeans segmentation + Power BI | Python · XGBoost · KMeans · Power BI |
+| [Customer Shopping Behavior](https://github.com/aymankhan555/customer_shopping_behavior_analysis) | Full Python → SQL → Power BI pipeline, key finding: discounts reduced average spend | Python · MySQL · PostgreSQL · Power BI |
 
-### 🏦 Loan Default Prediction &nbsp;·&nbsp; [Repo](https://github.com/aymankhan555/loan_approval_prediction) &nbsp;·&nbsp; [Live App](https://aymankhan555-loan-approval-app.streamlit.app/)
-
-Predicting whether a borrower will default on a loan using 91,226 real records. Compared three models, tuned XGBoost with 150 Optuna trials, and deployed the result as a Streamlit app that gives instant approval decisions. Catches 83 out of 100 real defaulters with a 0.9572 ROC-AUC on test data.
-
-`Python` `XGBoost` `Optuna` `Scikit-learn` `Streamlit`
-
-<br/>
-
-### 💳 Credit Card Churn Prediction &nbsp;·&nbsp; [Repo](https://github.com/aymankhan555/credit-card-churn-prediction) &nbsp;·&nbsp; [Live App](https://credit-card-churn-prediction.streamlit.app/)
-
-Flagging bank customers likely to cancel their card before they do. Trained and compared LR, Random Forest, and XGBoost, then used KMeans to segment customers by value tier. Delivered a 3-page Power BI dashboard and a live Streamlit app. Low card usage turned out to be the strongest churn signal, ahead of credit limit or demographics.
-
-`Python` `XGBoost` `KMeans` `Scikit-learn` `Streamlit` `Power BI`
-
-<br/>
-
-### 🛒 Walmart Sales Analysis &nbsp;·&nbsp; [Repo](https://github.com/aymankhan555/Walmart_Sales_Analysis)
-
-Analyzed 421,570 rows of weekly store sales to separate what actually drives revenue from what just looks like it does. Promotions barely moved the needle (+$310 average). Economic indicators had near-zero correlation with sales. The real drivers were specific holidays and store-level behavior.
-
-`Python` `Pandas` `Seaborn` `Power BI`
-
-<br/>
-
-### 🧾 Customer Shopping Behavior Analysis &nbsp;·&nbsp; [Repo](https://github.com/aymankhan555/customer_shopping_behavior_analysis)
-
-Full Python → SQL → Power BI pipeline on 3,900 customer transaction records. Ten SQL queries covering segmentation, payment behavior, discounts, and product performance. Key finding: 3,476 loyal customers carry the entire business, yet 2,518 of them are not subscribed. Discounts actually reduced average spend rather than increasing it.
-
-`Python` `MySQL` `PostgreSQL` `Power BI`
-
-<br/>
-
-🔍 [Explore all my projects](https://github.com/aymankhan555?tab=repositories)
-
-<br/>
+🔍 [See all projects →](https://aymankhan555.github.io) &nbsp;·&nbsp; [GitHub Repos →](https://github.com/aymankhan555?tab=repositories)
 
 ## Tech Stack
 
@@ -74,20 +45,22 @@ Full Python → SQL → Power BI pipeline on 3,900 customer transaction records.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Data and ML** &nbsp;
+**Data Science & AI ** &nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logo=python&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-6C63FF?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
-**BI and Deployment** &nbsp;
+**BI & Deployment** &nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-<br/>
-
+![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace%20Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 
 <p align="center">
