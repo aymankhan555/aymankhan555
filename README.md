@@ -30,9 +30,9 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| [ToxSense](https://huggingface.co/spaces/ayman005/toxsense) | Multi-label toxicity classifier using DistilBERT — macro AUC 0.9838 | Python · DistilBERT · Streamlit · Docker |
-| [Loan Default Predictor](https://aymankhan555-loan-approval-app.streamlit.app/) | XGBoost + Optuna, catches 83/100 real defaulters | Python · XGBoost · Optuna · Streamlit |
-| [Credit Card Churn](https://credit-card-churn-prediction.streamlit.app/) | Flags churners before they leave, KMeans segmentation + Power BI | Python · XGBoost · KMeans · Power BI |
+| [ToxSense](https://github.com/aymankhan555/ToxSense) | Multi-label toxicity classifier using DistilBERT — macro AUC 0.9838 | Python · DistilBERT · Streamlit · Docker |
+| [Loan Default Predictor](https://github.com/aymankhan555/loan_approval_prediction) | XGBoost + Optuna, catches 83/100 real defaulters | Python · XGBoost · Optuna · Streamlit |
+| [Credit Card Churn](https://github.com/aymankhan555/credit-card-churn-prediction) | Flags churners before they leave, KMeans segmentation + Power BI | Python · XGBoost · KMeans · Power BI |
 | [Customer Shopping Behavior](https://github.com/aymankhan555/customer_shopping_behavior_analysis) | Full Python → SQL → Power BI pipeline, key finding: discounts reduced average spend | Python · MySQL · PostgreSQL · Power BI |
 
 🔍 [See all projects →](https://aymankhan555.github.io) &nbsp;·&nbsp; [GitHub Repos →](https://github.com/aymankhan555?tab=repositories)
